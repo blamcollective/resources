@@ -1,0 +1,18 @@
+# Add a term to the glossary:
+#- term: (string)
+#  definition: (html string)
+#  tags: (array)
+#  image: (optional)
+#    src: Filename (string) -- PLACE IMAGES IN `/img`
+#    alt: For screen readers (string)
+
+- term: Example term
+  definition: Example definition.
+  tags:
+    - Galleries
+    - Libraries
+    - Archives
+    - Museums
+  image:
+    src: example.gif
+    alt: Example alt text.
