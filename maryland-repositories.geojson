@@ -1,0 +1,1877 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -76.6169,
+          39.31898
+        ],
+        "type": "Point"
+      },
+      "id": 137,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://www.afro.com/afroblackhistoryarchives/",
+        "identifier": 137,
+        "street_address": "2519 N. Charles Street",
+        "contact_name": "null",
+        "contact_phone": "410-554-8265",
+        "city": "Baltimore",
+        "geo_accuracy": "null",
+        "geo_latitude": 39.31898,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -76.6169,
+        "title": "Afro-American Newspapers Archives and Research Center",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": 21218,
+        "url_instagram": "null",
+        "marker-symbol": "commercial",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.61921,
+          39.32563
+        ],
+        "type": "Point"
+      },
+      "id": 360,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://www.artbma.org/about/library.html",
+        "identifier": 360,
+        "street_address": "10 Art Museum Drive",
+        "contact_name": "null",
+        "contact_phone": "443-573-1778",
+        "city": "Baltimore",
+        "geo_accuracy": "null",
+        "geo_latitude": 39.32563,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -76.61921,
+        "title": "Baltimore Museum of Art, E. Kirkbride Miller Art Research Library",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": 21218,
+        "url_instagram": "null",
+        "marker-symbol": "library",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.617,
+          39.29475
+        ],
+        "type": "Point"
+      },
+      "id": 122,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://www.prattlibrary.org/locations/specialcollections/index.aspx",
+        "identifier": 122,
+        "street_address": "400 Cathedral Street",
+        "contact_name": "null",
+        "contact_phone": "443-984-2451",
+        "city": "Baltimore",
+        "geo_accuracy": "null",
+        "geo_latitude": 39.29475,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -76.617,
+        "title": "Enoch Pratt Free Library, Special Collections",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": 21201,
+        "url_instagram": "null",
+        "marker-symbol": "library",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.60052,
+          39.40952
+        ],
+        "type": "Point"
+      },
+      "id": 455,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://www.goucher.edu/x9158.xml",
+        "identifier": 455,
+        "street_address": "1021 Dulaney Valley Road",
+        "contact_name": "null",
+        "contact_phone": "410-337-6347",
+        "city": "Baltimore",
+        "geo_accuracy": "null",
+        "geo_latitude": 39.40952,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -76.60052,
+        "title": "Goucher College Special Collections and Archives",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": "21204-2794",
+        "url_instagram": "null",
+        "marker-symbol": "college",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.59052,
+          39.41824
+        ],
+        "type": "Point"
+      },
+      "id": 469,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://www.nps.gov/hamp/historyculture/hampton-archival-collections.htm",
+        "identifier": 469,
+        "street_address": "535 Hampton Lane",
+        "contact_name": "null",
+        "contact_phone": "410-823-1309",
+        "city": "Towson",
+        "geo_accuracy": "null",
+        "geo_latitude": 39.41824,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -76.59052,
+        "title": "Hampton National Historic Site",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": 21286,
+        "url_instagram": "null",
+        "marker-symbol": "museum",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.62788,
+          39.45995
+        ],
+        "type": "Point"
+      },
+      "id": 451,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://www.hsobc.org/researchlibrary.html",
+        "identifier": 451,
+        "street_address": "9811 Van Buren Lane",
+        "contact_name": "null",
+        "contact_phone": "410-666-1878",
+        "city": "Cockeysville",
+        "geo_accuracy": "null",
+        "geo_latitude": 39.45995,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -76.62788,
+        "title": "Historical Society of Baltimore County",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": 21030,
+        "url_instagram": "null",
+        "marker-symbol": "museum",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.60104,
+          39.29025
+        ],
+        "type": "Point"
+      },
+      "id": 398,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://www.jhsm.org/",
+        "identifier": 398,
+        "street_address": "15 Lloyd Street",
+        "contact_name": "null",
+        "contact_phone": "410-732-6400",
+        "city": "Baltimore",
+        "geo_accuracy": "null",
+        "geo_latitude": 39.29025,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -76.60104,
+        "title": "Jewish Museum of Maryland",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": 21202,
+        "url_instagram": "null",
+        "marker-symbol": "museum",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.61797,
+          39.33153
+        ],
+        "type": "Point"
+      },
+      "id": 493,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://guides.library.jhu.edu/specialcollections",
+        "identifier": 493,
+        "street_address": "3400 North Charles Street",
+        "contact_name": "null",
+        "contact_phone": "410-516-8323",
+        "city": "Baltimore",
+        "geo_accuracy": "null",
+        "geo_latitude": 39.33153,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -76.61797,
+        "title": "Johns Hopkins University Ferdinand Hamburger Archives",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": 21218,
+        "url_instagram": "null",
+        "marker-symbol": "college",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.61507,
+          39.29776
+        ],
+        "type": "Point"
+      },
+      "id": 492,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://guides.library.jhu.edu/content.php?pid=205178&sid=1712833",
+        "identifier": 492,
+        "street_address": "17 East Mount Vernon Place",
+        "contact_name": "null",
+        "contact_phone": "410-659-8179",
+        "city": "Baltimore",
+        "geo_accuracy": "null",
+        "geo_latitude": 39.29776,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -76.61507,
+        "title": "George Peabody Library",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": 21201,
+        "url_instagram": "null",
+        "marker-symbol": "library",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.62001,
+          39.34864
+        ],
+        "type": "Point"
+      },
+      "id": 305,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://guides.library.jhu.edu/content.php?pid=205178&sid=1712838",
+        "identifier": 305,
+        "street_address": "4545 N. Charles Street",
+        "contact_name": "null",
+        "contact_phone": "410-516-8348",
+        "city": "Baltimore",
+        "geo_accuracy": "null",
+        "geo_latitude": 39.34864,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -76.62001,
+        "title": "John Work Garrett Library",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": 21210,
+        "url_instagram": "null",
+        "marker-symbol": "library",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.6551,
+          39.3744
+        ],
+        "type": "Point"
+      },
+      "id": 325,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://www.medicalarchives.jhmi.edu/",
+        "identifier": 325,
+        "street_address": "5801 Smith Avenue, Suite 235",
+        "contact_name": "null",
+        "contact_phone": "410-735-6800",
+        "city": "Baltimore",
+        "geo_accuracy": "null",
+        "geo_latitude": 39.3744,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -76.6551,
+        "title": "Johns Hopkins University Alan Mason Chesney Medical Archives",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": 21209,
+        "url_instagram": "null",
+        "marker-symbol": "college",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.61554,
+          39.3502
+        ],
+        "type": "Point"
+      },
+      "id": 131,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://www.loyola.edu/library/archives/archives.htm",
+        "identifier": 131,
+        "street_address": "200 Winston Avenue",
+        "contact_name": "null",
+        "contact_phone": "410-617-6868",
+        "city": "Baltimore",
+        "geo_accuracy": "null",
+        "geo_latitude": 39.3502,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -76.61554,
+        "title": "Loyola Notre Dame Library Archives/Special Collections",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": 21212,
+        "url_instagram": "null",
+        "marker-symbol": "library",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.61904,
+          39.29776
+        ],
+        "type": "Point"
+      },
+      "id": 366,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://www.mdhs.org/library/library-overview",
+        "identifier": 366,
+        "street_address": "201 West Monument Street",
+        "contact_name": "null",
+        "contact_phone": "410- 685-3750 ext. 327",
+        "city": "Baltimore",
+        "geo_accuracy": "null",
+        "geo_latitude": 39.29776,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -76.61904,
+        "title": "H. Furlong Baldwin Library, Maryland Historical Society",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": 21201,
+        "url_instagram": "null",
+        "marker-symbol": "library",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.62168,
+          39.30794
+        ],
+        "type": "Point"
+      },
+      "id": 163,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://www.mica.edu/Academic_Services_and_Libraries/Decker_Library_and_Media_Resources_Collection/Collections_Access/Special_Collections/Historical_Archives.html",
+        "identifier": 163,
+        "street_address": "1300 Mount Royal Avenue",
+        "contact_name": "null",
+        "contact_phone": "410-225-2714",
+        "city": "Baltimore",
+        "geo_accuracy": "null",
+        "geo_latitude": 39.30794,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -76.62168,
+        "title": "Maryland Institute College of Art - Historical Archives",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": 21217,
+        "url_instagram": "null",
+        "marker-symbol": "college",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.63938,
+          39.36085
+        ],
+        "type": "Point"
+      },
+      "id": 451,
+      "type": "Feature",
+      "properties": {
+        "url_main": "www.stmarys.edu/archives",
+        "identifier": 451,
+        "street_address": "5400 Roland Avenue",
+        "contact_name": "null",
+        "contact_phone": "410-864-4074",
+        "city": "Baltimore",
+        "geo_accuracy": "null",
+        "geo_latitude": 39.36085,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -76.63938,
+        "title": "St. Mary's Seminary & University Associate Archives",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": 21210,
+        "url_instagram": "null",
+        "marker-symbol": "religious-christian",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.606,
+          39.39263
+        ],
+        "type": "Point"
+      },
+      "id": 478,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://cooklibrary.towson.edu/archives/generalInformation.cfm",
+        "identifier": 478,
+        "street_address": "8000 York Road",
+        "contact_name": "null",
+        "contact_phone": "410-704-2398",
+        "city": "Towson",
+        "geo_accuracy": "null",
+        "geo_latitude": 39.39263,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -76.606,
+        "title": "Towson University, University Archives",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": 21252,
+        "url_instagram": "null",
+        "marker-symbol": "college",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.6176,
+          39.30608
+        ],
+        "type": "Point"
+      },
+      "id": 108,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://archives.ubalt.edu/collectlist.htm",
+        "identifier": 108,
+        "street_address": "1420 Maryland Avenue",
+        "contact_name": "null",
+        "contact_phone": "410-837-4268",
+        "city": "Baltimore",
+        "geo_accuracy": "null",
+        "geo_latitude": 39.30608,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -76.6176,
+        "title": "University of Baltimore, Langsdale Library Special Collections",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": 21201,
+        "url_instagram": "null",
+        "marker-symbol": "library",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.62391,
+          39.28771
+        ],
+        "type": "Point"
+      },
+      "id": 231,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://www.hshsl.umaryland.edu/resources/historical/index.html",
+        "identifier": 231,
+        "street_address": "601 W. Lombard Street",
+        "contact_name": "null",
+        "contact_phone": "(410) 706-5048",
+        "city": "Baltimore",
+        "geo_accuracy": "null",
+        "geo_latitude": 39.28771,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -76.62391,
+        "title": "University of Maryland, Health Sciences and Human Services Library, Historical and Special Collections Department",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": 21201,
+        "url_instagram": "null",
+        "marker-symbol": "library",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.6226,
+          39.29055
+        ],
+        "type": "Point"
+      },
+      "id": 104,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://www.law.umaryland.edu/marshall/specialcollections/",
+        "identifier": 104,
+        "street_address": "501 W. Fayette St.",
+        "contact_name": "null",
+        "contact_phone": "410-706-0783",
+        "city": "Baltimore",
+        "geo_accuracy": "null",
+        "geo_latitude": 39.29055,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -76.6226,
+        "title": "University of Maryland, Baltimore. Thurgood Marshall Law Library",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": 21201,
+        "url_instagram": "null",
+        "marker-symbol": "library",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.71674,
+          39.25828
+        ],
+        "type": "Point"
+      },
+      "id": 386,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://aok.lib.umbc.edu/specoll/",
+        "identifier": 386,
+        "street_address": "1000 Hilltop Circle",
+        "contact_name": "null",
+        "contact_phone": "410-455-2353",
+        "city": "Baltimore",
+        "geo_accuracy": "null",
+        "geo_latitude": 39.25828,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -76.71674,
+        "title": "UMBC Special Collections",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": 21250,
+        "url_instagram": "null",
+        "marker-symbol": "college",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.06551,
+          38.69377
+        ],
+        "type": "Point"
+      },
+      "id": 443,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://www.accokeek.org/",
+        "identifier": 443,
+        "street_address": "3400 Bryan Point Road",
+        "contact_name": "null",
+        "contact_phone": "301-283-2113",
+        "city": "Accokeek",
+        "geo_accuracy": "null",
+        "geo_latitude": 38.69377,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -77.06551,
+        "title": "Accokeek Foundation",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": 20607,
+        "url_instagram": "null",
+        "marker-symbol": "museum",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.62576,
+          39.16419
+        ],
+        "type": "Point"
+      },
+      "id": 380,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://www.aachs.org",
+        "identifier": 380,
+        "street_address": "5 Crain Highway SE",
+        "contact_name": "null",
+        "contact_phone": "410-760-9679",
+        "city": "Glen Burnie",
+        "geo_accuracy": "null",
+        "geo_latitude": 39.16419,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -76.62576,
+        "title": "Ann Arrundell County Historical Society Kuethe Library",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": 21061,
+        "url_instagram": "null",
+        "marker-symbol": "library",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.49384,
+          38.97801
+        ],
+        "type": "Point"
+      },
+      "id": 155,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://www.bdmuseum.com/bdm-library.html",
+        "identifier": 155,
+        "street_address": "84 Franklin Street",
+        "contact_name": "null",
+        "contact_phone": "410-216-6191",
+        "city": "Annapolis",
+        "geo_accuracy": "null",
+        "geo_latitude": 38.97801,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -76.49384,
+        "title": "Banneker-Douglas Museum, Sylvia Gaither Garrison Library",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": 21401,
+        "url_instagram": "null",
+        "marker-symbol": "library",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.76165,
+          39.01638
+        ],
+        "type": "Point"
+      },
+      "id": 364,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://www.bowiestate.edu/academics/library/departments/asc/",
+        "identifier": 364,
+        "street_address": "14000 Jericho Park Road",
+        "contact_name": "null",
+        "contact_phone": "301-860-3851",
+        "city": "Bowie",
+        "geo_accuracy": "null",
+        "geo_latitude": 39.01638,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -76.76165,
+        "title": "Bowie State University, Archives and Special Collections",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": 20715,
+        "url_instagram": "null",
+        "marker-symbol": "college",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.46568,
+          38.33277
+        ],
+        "type": "Point"
+      },
+      "id": 121,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://www.calvertmarinemuseum.com/library.htm",
+        "identifier": 121,
+        "street_address": "14050 Solomons Island Road",
+        "contact_name": "null",
+        "contact_phone": "410-326-2042",
+        "city": "Solomons",
+        "geo_accuracy": "null",
+        "geo_latitude": 38.33277,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -76.46568,
+        "title": "Calvert Marine Museum, Paul L. Berry Reference Library",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": 20688,
+        "url_instagram": "null",
+        "marker-symbol": "library",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.75485,
+          39.26846
+        ],
+        "type": "Point"
+      },
+      "id": 195,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://www.catonsvillehistory.org/",
+        "identifier": 195,
+        "street_address": "1824 Frederick Road",
+        "contact_name": "null",
+        "contact_phone": "410-744-3034",
+        "city": "Catonsville",
+        "geo_accuracy": "null",
+        "geo_latitude": 39.26846,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -76.75485,
+        "title": "Catonsville Historical Society",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": "21228-5503",
+        "url_instagram": "null",
+        "marker-symbol": "museum",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.85703,
+          39.21558
+        ],
+        "type": "Point"
+      },
+      "id": 326,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://www.columbiaarchives.org/",
+        "identifier": 326,
+        "street_address": "10227 Wincopin Circle",
+        "contact_name": "null",
+        "contact_phone": "410-715-3103",
+        "city": "Columbia",
+        "geo_accuracy": "null",
+        "geo_latitude": 39.21558,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -76.85703,
+        "title": "Columbia Archives",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": 21044,
+        "url_instagram": "null",
+        "marker-symbol": "museum",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.40881,
+          39.41446
+        ],
+        "type": "Point"
+      },
+      "id": 298,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://www.fcpl.org/information/mdroom/general_info.htm",
+        "identifier": 298,
+        "street_address": "110 East Patrick St.",
+        "contact_name": "null",
+        "contact_phone": "301-600-1368",
+        "city": "Frederick",
+        "geo_accuracy": "null",
+        "geo_latitude": 39.41446,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -77.40881,
+        "title": "C. Burr Artz Public Library, Frederick County Public Library",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": 21701,
+        "url_instagram": "null",
+        "marker-symbol": "library",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -78.9342,
+          39.65082
+        ],
+        "type": "Point"
+      },
+      "id": 495,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://www.frostburg.edu/lewis-ort-library/aboutlib/depts/coll/",
+        "identifier": 495,
+        "street_address": "1 Stadium Drive",
+        "contact_name": "null",
+        "contact_phone": "301-687-4889",
+        "city": "Frostburg",
+        "geo_accuracy": "null",
+        "geo_latitude": 39.65082,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -78.9342,
+        "title": "Frostburg State University, Special Collections",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": "21532-2342",
+        "url_instagram": "null",
+        "marker-symbol": "college",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.43253,
+          38.17789
+        ],
+        "type": "Point"
+      },
+      "id": 152,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://www.stmaryscity.org/",
+        "identifier": 152,
+        "street_address": "18559 Hogaboom Lane",
+        "contact_name": "null",
+        "contact_phone": "800-762-1634",
+        "city": "St. Mary's City",
+        "geo_accuracy": "null",
+        "geo_latitude": 38.17789,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -76.43253,
+        "title": "Historic St. Mary's City",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": 20686,
+        "url_instagram": "null",
+        "marker-symbol": "museum",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -83.09542,
+          34.66537
+        ],
+        "type": "Point"
+      },
+      "id": 480,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://hscc.carr.org/research/research.htm",
+        "identifier": 480,
+        "street_address": "210 East Main Street",
+        "contact_name": "null",
+        "contact_phone": "410-848-6494",
+        "city": "Westminster",
+        "geo_accuracy": "null",
+        "geo_latitude": "39.569450",
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -77.41049,
+        "title": "Historical Society of Carroll County",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": 21157,
+        "url_instagram": "null",
+        "marker-symbol": "museum",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.41049,
+          39.41571
+        ],
+        "type": "Point"
+      },
+      "id": 333,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://www.hsfcinfo.org/library/index.htm",
+        "identifier": 333,
+        "street_address": "24 East Church Street",
+        "contact_name": "null",
+        "contact_phone": "301-663-1188",
+        "city": "Frederick",
+        "geo_accuracy": "null",
+        "geo_latitude": 39.41571,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -77.41049,
+        "title": "Historical Society of Frederick County - Frederick County Archives & Research Center",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": 21701,
+        "url_instagram": "null",
+        "marker-symbol": "museum",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.023,
+          38.90289
+        ],
+        "type": "Point"
+      },
+      "id": 332,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://www.historydc.org/",
+        "identifier": 332,
+        "street_address": "801 K Street, NW",
+        "contact_name": "null",
+        "contact_phone": "207-383-1850",
+        "city": "Washington",
+        "geo_accuracy": "null",
+        "geo_latitude": 38.90289,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -77.023,
+        "title": "Historical Society of Washington, D.C. - Kiplinger Research Library",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": 20001,
+        "url_instagram": "null",
+        "marker-symbol": "museum",
+        "marker-color": "#339900",
+        "state": "DC",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.85645,
+          39.10975
+        ],
+        "type": "Point"
+      },
+      "id": 110,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://www.laurelhistory.org",
+        "identifier": 110,
+        "street_address": "817 Main Street",
+        "contact_name": "null",
+        "contact_phone": "301-725-7975",
+        "city": "Laurel",
+        "geo_accuracy": "null",
+        "geo_latitude": 39.10975,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -76.85645,
+        "title": "Laurel Museum & John Calder Brennan Research Library",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": 20707,
+        "url_instagram": "null",
+        "marker-symbol": "museum",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.50027,
+          38.98597
+        ],
+        "type": "Point"
+      },
+      "id": 125,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://www.msa.md.gov/",
+        "identifier": 125,
+        "street_address": "350 Rowe Boulevard",
+        "contact_name": "null",
+        "contact_phone": "410-260-6447",
+        "city": "Annapolis",
+        "geo_accuracy": "null",
+        "geo_latitude": 38.98597,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -76.50027,
+        "title": "Maryland State Archives",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": "21401-1686",
+        "url_instagram": "null",
+        "marker-symbol": "library",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.49991,
+          38.9855
+        ],
+        "type": "Point"
+      },
+      "id": 277,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://www.lawlib.state.md.us/",
+        "identifier": 277,
+        "street_address": "361 Rowe Boulevard",
+        "contact_name": "null",
+        "contact_phone": "410-260-1702",
+        "city": "Annapolis",
+        "geo_accuracy": "null",
+        "geo_latitude": 38.9855,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -76.49991,
+        "title": "Maryland State Law Library",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": 21401,
+        "url_instagram": "null",
+        "marker-symbol": "library",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.00376,
+          39.58343
+        ],
+        "type": "Point"
+      },
+      "id": 126,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://libguides.hoover.mcdaniel.edu/archives",
+        "identifier": 126,
+        "street_address": "2 College Hill",
+        "contact_name": "null",
+        "contact_phone": "",
+        "city": "Westminster",
+        "geo_accuracy": "null",
+        "geo_latitude": 39.58343,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -77.00376,
+        "title": "McDaniel College Archives",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": 21157,
+        "url_instagram": "null",
+        "marker-symbol": "college",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.15559,
+          39.08489
+        ],
+        "type": "Point"
+      },
+      "id": 362,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://www.montgomeryhistory.org/jane-c-sween-library",
+        "identifier": 362,
+        "street_address": "111 W. Montgomery Avenue",
+        "contact_name": "null",
+        "contact_phone": "301-340-2974",
+        "city": "Rockville",
+        "geo_accuracy": "null",
+        "geo_latitude": 39.08489,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -77.15559,
+        "title": "Montgomery County Historical Society Jane C. Sween Library",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": 20850,
+        "url_instagram": "null",
+        "marker-symbol": "library",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.92269,
+          39.02375
+        ],
+        "type": "Point"
+      },
+      "id": 370,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://specialcollections.nal.usda.gov/",
+        "identifier": 370,
+        "street_address": "10301 Baltimore Avenue",
+        "contact_name": "null",
+        "contact_phone": "301-504-5755",
+        "city": "Beltsville",
+        "geo_accuracy": "null",
+        "geo_latitude": 39.02375,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -76.92269,
+        "title": "National Agricultural Library Special Collections",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": "20705-2351",
+        "url_instagram": "null",
+        "marker-symbol": "library",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.15535,
+          39.95146
+        ],
+        "type": "Point"
+      },
+      "id": 363,
+      "type": "Feature",
+      "properties": {
+        "url_main": "www.archives.gov/midatlantic/public",
+        "identifier": 363,
+        "street_address": "900 Market Street",
+        "contact_name": "null",
+        "contact_phone": "215-606-0100",
+        "city": "Philadelphia",
+        "geo_accuracy": "null",
+        "geo_latitude": 39.95146,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -75.15535,
+        "title": "National Archives at Philadelphia",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": "19103-4292",
+        "url_instagram": "null",
+        "marker-symbol": "library",
+        "marker-color": "#339900",
+        "state": "PA",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.98369,
+          38.80368
+        ],
+        "type": "Point"
+      },
+      "id": 132,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://www.pgcmls.info/node/151",
+        "identifier": 132,
+        "street_address": "6200 Oxon Hill Road",
+        "contact_name": "null",
+        "contact_phone": "301-839-2400",
+        "city": "Oxon Hill",
+        "geo_accuracy": "null",
+        "geo_latitude": 38.80368,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -76.98369,
+        "title": "Prince George's County Memorial Library System Sojourner Truth African American Research Collection",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": 20745,
+        "url_instagram": "null",
+        "marker-symbol": "library",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.4253,
+          38.18792
+        ],
+        "type": "Point"
+      },
+      "id": 100,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://www.smcm.edu/archives/",
+        "identifier": 100,
+        "street_address": "18952 East Fishers Road",
+        "contact_name": "null",
+        "contact_phone": "240-865-4196",
+        "city": "St. Mary's City",
+        "geo_accuracy": "null",
+        "geo_latitude": 38.18792,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -76.4253,
+        "title": "St. Mary's College of Maryland",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": 20686,
+        "url_instagram": "null",
+        "marker-symbol": "college",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.63434,
+          38.28842
+        ],
+        "type": "Point"
+      },
+      "id": 466,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://home.md.metrocast.net/~smchs/index.htm",
+        "identifier": 466,
+        "street_address": "41680 Tudor Place",
+        "contact_name": "null",
+        "contact_phone": "301-475-2467",
+        "city": "Leonardtown",
+        "geo_accuracy": "null",
+        "geo_latitude": 38.28842,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -76.63434,
+        "title": "St. Mary's County Historical Society",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": 20650,
+        "url_instagram": "null",
+        "marker-symbol": "museum",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.60603,
+          38.34482
+        ],
+        "type": "Point"
+      },
+      "id": 358,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://nabbhistory.salisbury.edu/",
+        "identifier": 358,
+        "street_address": "1101 Camden Avenue",
+        "contact_name": "null",
+        "contact_phone": "410-543-6312",
+        "city": "Salisbury",
+        "geo_accuracy": "null",
+        "geo_latitude": 38.34482,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -75.60603,
+        "title": "Edward H. Nabb Research Center for Delmarva History and Culture at Salisbury University",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": 21801,
+        "url_instagram": "null",
+        "marker-symbol": "college",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.899,
+          39.32847
+        ],
+        "type": "Point"
+      },
+      "id": 102,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://bonsecours.org/archives-USA/index.htm",
+        "identifier": 102,
+        "street_address": "1525 Marriottsville Road",
+        "contact_name": "null",
+        "contact_phone": "410-442-1333",
+        "city": "Marriottsville",
+        "geo_accuracy": "null",
+        "geo_latitude": 39.32847,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -76.899,
+        "title": "Sisters of Bon Secours Archives",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": "21104-1399",
+        "url_instagram": "null",
+        "marker-symbol": "religious-christian",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.60592,
+          38.34494
+        ],
+        "type": "Point"
+      },
+      "id": 192,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://www.salisbury.edu/library/archives/index.html",
+        "identifier": 192,
+        "street_address": "1101 Camden Avenue",
+        "contact_name": "null",
+        "contact_phone": "410-677-0027",
+        "city": "Salisbury",
+        "geo_accuracy": "null",
+        "geo_latitude": 38.34494,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -75.60592,
+        "title": "Salisbury University Archives",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": 21801,
+        "url_instagram": "null",
+        "marker-symbol": "college",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.70187,
+          39.42172
+        ],
+        "type": "Point"
+      },
+      "id": 151,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://library.stevensonuniversity.org/archives/",
+        "identifier": 151,
+        "street_address": "1525 Greenspring Valley Road",
+        "contact_name": "null",
+        "contact_phone": "443-334-2233",
+        "city": "Stevenson",
+        "geo_accuracy": "null",
+        "geo_latitude": 39.42172,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -76.70187,
+        "title": "Stevenson University Library",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": 21153,
+        "url_instagram": "null",
+        "marker-symbol": "library",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.48517,
+          38.98628
+        ],
+        "type": "Point"
+      },
+      "id": 376,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://www.usna.edu/Library/sca/",
+        "identifier": 376,
+        "street_address": "589 McNair Road",
+        "contact_name": "null",
+        "contact_phone": "410-293-6904",
+        "city": "Annapolis",
+        "geo_accuracy": "null",
+        "geo_latitude": 38.98628,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -76.48517,
+        "title": "United States Naval Academy Special Collections & Archives",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": "21402-5029",
+        "url_instagram": "null",
+        "marker-symbol": "college",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.94161,
+          38.98865
+        ],
+        "type": "Point"
+      },
+      "id": 216,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://www.lib.umd.edu/special/",
+        "identifier": 216,
+        "street_address": "Hornbake Library",
+        "contact_name": "null",
+        "contact_phone": "301-314-2712",
+        "city": "College Park",
+        "geo_accuracy": "null",
+        "geo_latitude": 38.98865,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -76.94161,
+        "title": "Special Collections at the University of Maryland",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": 20742,
+        "url_instagram": "null",
+        "marker-symbol": "college",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.68628,
+          38.20976
+        ],
+        "type": "Point"
+      },
+      "id": 209,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://www.umes.edu/FDL/Default.aspx?id=19160",
+        "identifier": 209,
+        "street_address": "University of Maryland, Eastern Shore",
+        "contact_name": "null",
+        "contact_phone": "410-651-7695",
+        "city": "Princess Anne",
+        "geo_accuracy": "null",
+        "geo_latitude": 38.20976,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -75.68628,
+        "title": "University of Maryland, Eastern Shore Special Collections and University Archives",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": 21853,
+        "url_instagram": "null",
+        "marker-symbol": "college",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.95706,
+          38.98608
+        ],
+        "type": "Point"
+      },
+      "id": 133,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://www.umuc.edu/library/index.cfm",
+        "identifier": 133,
+        "street_address": "3501 University Boulevard East",
+        "contact_name": "null",
+        "contact_phone": "301-985-7209",
+        "city": "Adelphi",
+        "geo_accuracy": "null",
+        "geo_latitude": 38.98608,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -76.95706,
+        "title": "University of Maryland, University College",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": "20783-8048",
+        "url_instagram": "null",
+        "marker-symbol": "college",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.72106,
+          39.64071
+        ],
+        "type": "Point"
+      },
+      "id": 370,
+      "type": "Feature",
+      "properties": {
+        "url_main": "http://www.whilbr.org/",
+        "identifier": 370,
+        "street_address": "100 South Potomac Street",
+        "contact_name": "null",
+        "contact_phone": "301-739-3250",
+        "city": "Hagerstown",
+        "geo_accuracy": "null",
+        "geo_latitude": 39.64071,
+        "url_twitter": "null",
+        "description": "null",
+        "geo_longitude": -77.72106,
+        "title": "Western Maryland Regional Library",
+        "marker-size": "medium",
+        "contact_email": "null",
+        "zipcode": 21740,
+        "url_instagram": "null",
+        "marker-symbol": "library",
+        "marker-color": "#339900",
+        "state": "MD",
+        "url_facebook": "null",
+        "url_flickr": "null",
+        "status": "null",
+        "year_established": "null"
+      }
+    }
+  ]
+}
