@@ -1,6 +1,6 @@
 # bLAM Collection: Resources
 
-<img align="right" src="https://blamcollective.files.wordpress.com/2015/05/blamarc2.jpg">
+<img align="right" src="https://pbs.twimg.com/profile_images/659173907493203968/mPRcE9Sw.jpg">
 
 A collection of shared open source resources for Baltimore-area libraries, archives, museums and related memory institutions. This resource collection is inspired in part by the example of [MapTime](http://maptime.io/): "an open learning environment for all levels and degrees of knowledge, offering intentional educational support for the beginner." We anticipate developing these resources to make them available through a Jekyll-based website.
 
