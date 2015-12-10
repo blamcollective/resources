@@ -8,11 +8,18 @@ signups:
    affiliation: Baltimore Heritage
    twitter: elipousson
    github_username: elipousson
+ - name: Jenny Ferretti 
+   image: https://jennyferretti.files.wordpress.com/2015/12/jennifer_ferretti.jpg
+   affiliation: Maryland Institute College of Art
+   twitter: citythatreads
+   github_username: jennyferretti
  - name: 
    image: 
+   affiliation:
    twitter: 
    github_username: 
  - name: 
    image: 
+   affiliation:
    twitter: 
    github_username: 
