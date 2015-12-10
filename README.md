@@ -27,4 +27,4 @@ This resource already includes contributions from a variety of individuals and o
 - Maryland History and Culture Collaborative
 - Baltimore Heritage
 
-As of 2015, Eli Pousson ([GitHub](http://github.com/elipousson), [Twitter](http://twitter.com/elipousson)) is the lead organizer of this resource collection as a volunteer supporter of the bLAM Collective. Eli is the Directory of Preservation and Outreach for Baltimore Heritage ([GitHub](http://github.com/baltimoreheritage), [Twitter](http://twitter.com/bmoreheritage)).
+As of 2015, Eli Pousson ([GitHub](http://github.com/elipousson), [Twitter](http://twitter.com/elipousson)) is the lead organizer of this resource collection as a volunteer supporter of the bLAMcollective. Eli is the Director of Preservation and Outreach for Baltimore Heritage ([GitHub](http://github.com/baltimoreheritage), [Twitter](http://twitter.com/bmoreheritage)).
